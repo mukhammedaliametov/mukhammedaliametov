@@ -15,7 +15,6 @@
 
 ## Most commonly used front-end technologies and languages
 | <img alt="mukhammedaliametov github stats" src="https://github-readme-stats.vercel.app/api/top-langs?username=mukhammedaliametov&show_icons=true&locale=en&layout=compact&theme=github_dark" /> |
-
 <img alt="mukhammedaliametov github stats" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> |
 | ------------- | ------------- |
 
