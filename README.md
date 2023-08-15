@@ -13,11 +13,10 @@
 | <img alt="M.Ametov Github Stats" src="https://github-readme-stats.vercel.app/api?username=mukhammedaliametov&show_icons=true&count_private=true&theme=github_dark" /> | <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="M.A Github Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=mukhammedaliametov&theme=github_dark"/> |
 | ------------- | ------------- |
 
-## Most used Lanuages
+## Most commonly used front-end technologies and languages
 <img alt="mukhammedaliametov github stats" src="https://github-readme-stats.vercel.app/api/top-langs?username=mukhammedaliametov&show_icons=true&locale=en&layout=compact&theme=github_dark" />
 
-## Connect with me:
-
+## Connect with me
 <p align="left">
     <a href = "https://t.me/Ametov_blog"><img src="https://img.icons8.com/fluency/48/000000/telegram-app.png"/></a>
     <a href = "https://instagram.com/ametov.me/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
