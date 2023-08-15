@@ -10,7 +10,8 @@
     <img alt="mukhammedaliametov github stats" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mukhammedaliametov&theme=github_dark" />
 </p>
 
- <img alt="M.Ametov Github Stats" src="https://github-readme-stats.vercel.app/api?username=mukhammedaliametov&show_icons=true&count_private=true&theme=github_dark" />  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="M.A Github Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=mukhammedaliametov&theme=github_dark"/>
+| <img alt="M.Ametov Github Stats" src="https://github-readme-stats.vercel.app/api?username=mukhammedaliametov&show_icons=true&count_private=true&theme=github_dark" />  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="M.A Github Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=mukhammedaliametov&theme=github_dark"/> |
+| ------------- | ------------- |
 
 ## Connect with me:
 
