@@ -4,8 +4,6 @@
     I was born Karakalpakstan. I'm work with React.js , Next.js
 </h3>
 
-<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
 
 ## Connect with me:
 
