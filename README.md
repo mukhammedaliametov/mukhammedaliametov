@@ -7,7 +7,7 @@
 ## 📊 My Github Stats
 
 <p align="center">
-    <img alt="nodirmdh github stats" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nodirmdh&theme=github_dark" />
+    <img alt="nodirmdh github stats" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ametovmukhammedali&theme=github_dark" />
 </p>
 
 | <img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mukhammedaliametov&show_icons=true&count_private=true&theme=vue&hide_border=true&bg_color=0D1117" /> | <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mukhammedaliametov&theme=vue-dark&hide_border=true&stroke=0000&background=0D1117"/> |
