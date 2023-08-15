@@ -16,6 +16,8 @@
 ## Most commonly used front-end technologies and languages
 <img alt="mukhammedaliametov github stats" src="https://github-readme-stats.vercel.app/api/top-langs?username=mukhammedaliametov&show_icons=true&locale=en&layout=compact&theme=github_dark" />
 
+<img alt="mukhammedaliametov github stats" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+
 ## Connect with me
 <p align="left">
     <a href = "https://t.me/Ametov_blog"><img src="https://img.icons8.com/fluency/48/000000/telegram-app.png"/></a>
