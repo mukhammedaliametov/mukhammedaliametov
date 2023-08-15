@@ -13,6 +13,9 @@
 | <img alt="M.Ametov Github Stats" src="https://github-readme-stats.vercel.app/api?username=mukhammedaliametov&show_icons=true&count_private=true&theme=github_dark" /> | <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="M.A Github Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=mukhammedaliametov&theme=github_dark"/> |
 | ------------- | ------------- |
 
+## Most used Lanuages
+<img alt="mukhammedaliametov github stats" src="https://github-readme-stats.vercel.app/api/top-langs?username=mukhammedaliametov&show_icons=true&locale=en&layout=compact&theme=github_dark" />
+
 ## Connect with me:
 
 <p align="left">
