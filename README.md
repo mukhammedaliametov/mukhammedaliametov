@@ -31,7 +31,7 @@
     <img alt="mukhammedaliametov github stats" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
   
   ## Most used languages
-  | <img alt="mukhammedaliametov github stats" src="https://github-readme-stats.vercel.app/api/top-langs?username=mukhammedaliametov&show_icons=true&locale=en&layout=compact&theme=github_dark" />
+<img alt="mukhammedaliametov github stats" src="https://github-readme-stats.vercel.app/api/top-langs?username=mukhammedaliametov&show_icons=true&locale=en&layout=compact&theme=github_dark" />
   
   ## Connect with me
   <p align="left">
