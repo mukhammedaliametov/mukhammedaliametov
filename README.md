@@ -1,14 +1,16 @@
 <h1 align="center"><b>👋🏻 Hi , I'm Mukhammedali Ametov </b></h1
 
-## 🙋‍♂️ About Me
+  ## 📊 About Me
 
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
+- 🌱 I’m currently learning **Typescript and Three Js**
 
 - 🤝 I’m looking to collaborate on **OpenSource Projects**
 
 - ✉️ How to reach me **ametovmukhammedali07@gmail.com**
 
-- 📄 This is my <a href="./My Resume.pdf">Resume</a>
+- 📄 This is my <a href="./My Resume.pdf">**Resume**</a>
+
+- ✅ This is my <a href="https://monkeytype.com/profile/ametov">**Hobby**</a>
   
   ## 📊 My Github Stats
   <p align="center">
