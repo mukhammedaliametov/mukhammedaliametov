@@ -1,8 +1,14 @@
 <h1 align="center"><b>👋🏻 Hi , I'm Mukhammedali Ametov </b></h1
 
-  <h3 align="center">
-      I was born Karakalpakstan. I'm work with React.js , Next.js
-  </h3>
+## 🙋‍♂️ About Me
+
+- 🌱 I’m currently learning **Data Structures and Algorithms.**
+
+- 🤝 I’m looking to collaborate on **OpenSource Projects**
+
+- ✉️ How to reach me **ametovmukhammedali07@gmail.com**
+
+- 📄 This is my <a href="./My Resume.pdf">Resume</a>
   
   ## 📊 My Github Stats
   <p align="center">
