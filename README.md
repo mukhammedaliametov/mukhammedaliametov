@@ -1,6 +1,6 @@
 <h1 align="center"><b>👋🏻 Hi , I'm Mukhammedali Ametov </b></h1
 
-  ## 📊 About Me
+## About Me
 
 - 🌱 I’m currently learning **Typescript and Three Js**
 
