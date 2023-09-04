@@ -10,7 +10,7 @@
 
 - ✉️ How to reach me **ametovmukhammedali07@gmail.com**
 
-- 📄 This is my <a href="./My Resume.pdf">**Resume**</a>
+- 📄 This is my <a href="./My Resume.pdf">**CV**</a>
 
 - ✅ One of my favorite hobbies is <a href="https://monkeytype.com/profile/ametov">**Monkeytype**</a>
   
